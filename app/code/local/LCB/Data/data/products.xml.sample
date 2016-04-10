@@ -1,0 +1,18 @@
+<products>
+    <product>
+        <sku>sku</sku>
+        <name>name</name>
+        <weight>1</weight>
+        <price>1</price>
+        <short_description>
+            <![CDATA[
+                short description
+            ]]>
+        </short_description>
+        <description>
+            <![CDATA[
+                description
+            ]]>  
+        </description>
+    </product>
+</products>

@@ -1,0 +1,17 @@
+<stories>
+    <story>
+        <id>1</id>
+        <name>name</name>
+        <title>title</title>
+        <bio>
+            <![CDATA[
+                &nbsp;
+            ]]>
+        </bio>
+        <story>
+            <![CDATA[
+                &nbsp;
+            ]]>  
+        </story>
+    </story>
+</stories>
