@@ -1,0 +1,20 @@
+{
+
+  "name":"lcbrq/LCB_Data",
+  "description":"Universal data installer from xml files made for various LCBRQ Magento plugins and websites",
+  "keywords": ["magento", "products"],
+  "type": "magento-module",
+
+  "authors":[{
+    "name": "Silpion Tomasz Gregorczyk"
+  }],
+
+  "require": {
+     "magento-hackathon/magento-composer-installer": "*",
+  },
+
+  "require-dev": {
+    "ecomdev/mage-ci": "dev-master"
+  },
+
+}
